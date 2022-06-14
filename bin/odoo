@@ -1,0 +1,4 @@
+#!/opt/bitnami/odoo/venv/bin/python
+# EASY-INSTALL-SCRIPT: 'odoo==15.0.post20220410','odoo'
+__requires__ = 'odoo==15.0.post20220410'
+__import__('pkg_resources').run_script('odoo==15.0.post20220410', 'odoo')
